@@ -1,0 +1,153 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.container-fluid{
+    margin:0% !important;
+    padding: 0% !important;
+}
+.navbar-toggler{
+    border:none !important;
+}
+.navbar-toggler-icon{
+    color: rgba(44, 164, 201, 0.719) !important;
+}
+.row{
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+    margin-top: 0% !important;
+}
+a{
+    text-decoration: none !important;
+}
+.header-tabs{
+    border-top:0px !important;
+    border:1px lightgray solid;
+}
+.hover-items{}
+.hover-items:hover{
+color: rgb(72, 162, 235) !important;
+font-weight: bold;
+}
+.lightgray{
+    color:gray !important;
+    font-weight: 100 !important;
+}
+.display-1{
+    color:white;
+}
+.section2 .display-1{
+    color:black;
+    font-weight: 100 !important;
+}
+.design-color{
+    color: gray;
+}
+.img-thumbnail{
+    padding:0rem !important;
+    background-color: transparent !important;
+}
+.withpercent{
+    width: 100%;
+}
+#mobile-section{
+    background-color: rgb(34, 33, 33);
+    color:lightgray;
+}
+#mobile-section .img-thumbnail{
+    border:none;
+}
+#mobile{
+    background-color: rgb(34, 33, 33);
+    color:lightgray;
+}
+.font-weight{
+    font-weight: 100 !important;
+}
+.font-adjust{
+    font-size:18px !important;
+    font-weight: normal;
+}
+.my-font-color{
+    color:lightgray !important;
+}
+
+#section3 .img-thumbnail{
+    border:none !important;
+}
+.font{
+    font-size: 15px !important;
+}
+.font-weight-200{
+    font-weight: 200 !important;
+}
+
+.home-image{
+    background-image: url('pics/home-banner-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    width:100%;
+    height: 100vh;
+    z-index: -1;
+}
+
+.home-font{
+    font-size:60px !important;
+    font-weight: 0 !important;
+    color:white;
+}
+.section4-cover{
+    background-color: rgba(44, 164, 201, 0.719);
+    height: 60vh;
+
+
+}
+
+.section4-poster{
+    background-image: url('pics/xn3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height: 60vh;
+}
+.post{
+    background-color: white !important;
+    height: 30vh;
+    margin-top: 8% !important;
+    margin-left: 6%;
+    margin-right: 0%;
+}
+.footer{
+    background-color: rgb(34, 33, 33);
+    color: gray;
+}
+
+.font-white{
+    color:white;
+}
+
+#flogo{
+    padding-top:10px;
+    font-size: 24px;
+    width: 40px;
+    background-color:black;
+    text-align: center;
+    height: 45px;
+    margin-right: 20px;
+}
+#flogo:hover{
+    background-color: white;
+    color: rgba(44, 164, 201);
+}
+
+.style-color{
+    color:rgb(72, 162, 235);
+}
+
+
+.hover-white{}
+.hover-white:hover{
+    color:white !important;
+    font-weight:  bold;
+}
